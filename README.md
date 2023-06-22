@@ -9,9 +9,6 @@ The responsive Movie Review web application is a platform where users can add re
 * [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 * [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
-## ⚡ Live Version
-Click here to visit live version.
-
 ## ⚙️ Local Setup and Installation
 * Clone this repository.
 ```
